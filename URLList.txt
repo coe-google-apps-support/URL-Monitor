@@ -1,8 +1,5 @@
 https://www.google.ca/
 https://www.edmonton.ca/
 https://www.google.ca/DylanRoberts
-http://tableau/#/site/Production/views/ITBManagementDashboard_0/ITBranchDashboard?:iid=3
-https://docs.google.com/document/d/1hazJ6hv9xE51AWr4j5B5C5p49atXgkHDAPd8KlEQ-eY/edit?usp=sharing
-https://docs.google.com/document/d/1EYQ5uTd-X3bWhcg-gOXrcURNSMakLyjaKhkb_iyBaGY/edit?usp=sharing
-https://drive.google.com/open?id=1ydJp76P9Rr1qcitCPEW9vMbvhS13F0el
-https://octavadev.edmonton.ca/
+https://nhl.com
+
